@@ -1,0 +1,6 @@
+com/rtsrms/user_service/repository/UserRepository.class
+com/rtsrms/user_service/service/UserService.class
+com/rtsrms/user_service/controller/UserController.class
+com/rtsrms/user_service/model/User$UserBuilder.class
+com/rtsrms/user_service/model/User.class
+com/rtsrms/user_service/UserServiceApplication.class
